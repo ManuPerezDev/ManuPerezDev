@@ -2,7 +2,7 @@
 
 ---
 
-My name is Manuel. I'm from La Palma, Canary Islands. I'm a junior developer and I'm learning all days to get Full-Stack! 
+My name is Manuel and I was born in La Palma, Canary Islands. I'm a junior developer and I'm learning all days to get Full-Stack! 
 
 I enjoy videogames, music, films and reading! :video_game::musical_note::movie_camera::book:
 

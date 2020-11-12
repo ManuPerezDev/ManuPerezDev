@@ -14,8 +14,7 @@ And obviously, I love pizza... so much... :pizza:
 
 ---
 
-- 🔭 I’m currently working on [Huella Positiva](https://github.com/ayudadigital/huelladigital-backend) as volunteer
-- 🌱 I’m currently learning Spring and React
+- 🌱 I’m currently coursing Full-Stack Developer Bootcamp
 - :computer: I used to program mostly with Java
 - :desert_island: Currently settled in La Palma
 - :key: Right now working on improve focus and self management

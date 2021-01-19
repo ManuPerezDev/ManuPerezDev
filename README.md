@@ -27,4 +27,4 @@ And obviously, I love pizza... so much... :pizza:
 ---
 
 [![LinkedIn](https://img.shields.io/badge/-Manuel%20Pérez%20Regalado-0077B5?style=flat&amp;logo=Linkedin&amp;logoColor=white)](https://www.linkedin.com/in/manuel-perez-regalado/)
-[![Website](https://img.shields.io/badge/-www.manuelperezregalado.com-E38E26?style=flat&amp;)](https://www.manuelperezregalado.com/)
+[![Website](https://img.shields.io/badge/-My Blog-E38E26?style=flat&amp;)](https://pandacore.hashnode.dev/)

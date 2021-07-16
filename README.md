@@ -14,10 +14,10 @@ And obviously, I love pizza... so much... :pizza:
 
 ---
 
-- 🌱 I’m currently coursing Full-Stack Developer Bootcamp
-- :computer: I used to program mostly with Java
+- 🌱 Currently working in [Lean Mind](https://leanmind.es/en/)
+- :computer: Learning Node and TypeScript
 - :desert_island: Currently settled in La Palma
-- :key: Right now working on improve focus and self management
+- :key: Always working on self-improvement!
 - 💬 Ask me about anything! I'm here to serve! 
 
 

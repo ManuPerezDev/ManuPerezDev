@@ -1,8 +1,20 @@
-### Hi there 👋
+<h1 align='left'>
+  Hello there :grin:
+</h1>
+<h3 align="left">Software Developer</h3>
+
+<p align='left'>
+  <a href="https://www.linkedin.com/in/manuel-perez-regalado/">
+   <img align="center" src="https://img.shields.io/badge/-Manuel%20Pérez%20Regalado-0077B5?style=flat&amp;logo=Linkedin&amp;logoColor=white" />
+  </a>
+  <a href="[https://www.linkedin.com/in/air%C3%A1n-s%C3%A1nchez-brito-415910145/](https://manuelperez.dev/)">
+    <img align="center" src="https://img.shields.io/badge/Blog-manuelperez.dev-blue" />
+  </a>
+</p>
 
 ---
 
-My name is Manuel and I was born in La Palma, Canary Islands. I'm a junior developer and I'm learning all days to get Full-Stack! 
+My name is Manuel and I was born in La Palma, Canary Islands.
 
 I enjoy videogames, music, films and reading! :video_game::musical_note::movie_camera::book:
 
@@ -15,16 +27,10 @@ And obviously, I love pizza... so much... :pizza:
 ---
 
 - 🌱 Currently working in [Lean Mind](https://leanmind.es/en/)
-- :computer: Learning Node and TypeScript
-- :desert_island: Currently settled in La Palma
+- :computer: Working with Node and TypeScript
+- :desert_island: Currently settled in Canary Islands
 - :key: Always working on self-improvement!
-- 💬 Ask me about anything! I'm here to serve! 
-
-
-
-### :email:You can contact me on...
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/-Manuel%20Pérez%20Regalado-0077B5?style=flat&amp;logo=Linkedin&amp;logoColor=white)](https://www.linkedin.com/in/manuel-perez-regalado/)
-[![Blog](https://img.shields.io/badge/Hasnode-Pandacore-blue;)](https://pandacore.hashnode.dev/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pandacore&layout=compact)

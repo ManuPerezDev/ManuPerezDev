@@ -32,5 +32,3 @@ And obviously, I love pizza... so much... :pizza:
 - :key: Always working on self-improvement!
 
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pandacore&layout=compact)

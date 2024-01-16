@@ -1,33 +1,22 @@
-<h1 align='left'>
-  Hello there :grin:
-</h1>
-<h3 align="left">Software Developer</h3>
+```zsh
+> node hello_there.js
+```
 
-<p align='left'>
-  <a href="https://www.linkedin.com/in/manuel-perez-regalado/">
-   <img align="center" src="https://img.shields.io/badge/-Manuel%20Pérez%20Regalado-0077B5?style=flat&amp;logo=Linkedin&amp;logoColor=white" />
-  </a>
-  <a href="[https://www.linkedin.com/in/air%C3%A1n-s%C3%A1nchez-brito-415910145/](https://manuelperez.dev/)">
-    <img align="center" src="https://img.shields.io/badge/Blog-manuelperez.dev-blue" />
-  </a>
+<img style="padding-left: 8px;" align="left" src="https://i.pinimg.com/originals/b9/01/80/b901800f5583ba62d542abd802a9606e.gif" width="300" /> 
+
+```csharp
+pandacore@github
+-------------------------
+Shell: zsh 5.8.1
+Location: Canary Islands, ES
+Company: www.leanmind.es
+Values: Communication, Respect, Simplicity, Courage, Feedback
+Technologies: Node.js, TypeScript, React, MongoDB, SQL
+Hobbies: Gaming, Music, Pizza
+Blog: https://manuelperez.dev/
+Linkedin: https://www.linkedin.com/in/manuel-perez-regalado/
+```
+<p align="left">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="#474342" src="https://via.placeholder.com/15/474342/000000?text=+" width="25" height="20" /><img alt="#fbedf6" src="https://via.placeholder.com/15/fbedf6/000000?text=+" width="25" height="20" /><img alt="#c9594d" src="https://via.placeholder.com/15/c9594d/000000?text=+" width="25" height="20" /><img alt="#f8b9b2" src="https://via.placeholder.com/15/f8b9b2/000000?text=+" width="25" height="20" /><img alt="#ae9c9d" src="https://via.placeholder.com/15/ae9c9d/000000?text=+" width="25" height="20" />
 </p>
-
----
-
-My name is Manuel and I was born in La Palma, Canary Islands.
-
-I enjoy videogames, music, films and reading! :video_game::musical_note::movie_camera::book:
-
-And obviously, I love pizza... so much... :pizza:
-
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/b9/01/80/b901800f5583ba62d542abd802a9606e.gif" style="max-width: 50px;"/>
-
-### What's going on...
-
----
-
-- 🌱 Currently working at [Lean Mind](https://leanmind.es/en/)
-- :computer: Working with Node and TypeScript
-- :desert_island: Currently settled in Canary Islands
-
----

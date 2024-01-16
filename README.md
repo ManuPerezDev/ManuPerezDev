@@ -26,9 +26,8 @@ And obviously, I love pizza... so much... :pizza:
 
 ---
 
-- 🌱 Currently working in [Lean Mind](https://leanmind.es/en/)
+- 🌱 Currently working at [Lean Mind](https://leanmind.es/en/)
 - :computer: Working with Node and TypeScript
 - :desert_island: Currently settled in Canary Islands
-- :key: Always working on self-improvement!
 
 ---

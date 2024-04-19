@@ -4,7 +4,7 @@
 
 ```zsh
 > username
-  pandacore@github
+  ManuPerezDev@github
 > shell
   zsh 5.8.1
 > location

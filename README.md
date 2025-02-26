@@ -15,9 +15,9 @@
   Communication, Respect, Simplicity, Courage, Feedback
 > technologies
   Node.js, TypeScript, React, MongoDB, SQL
-> Hobbies
+> hobbies
   Gaming, Music, Pizza
-> Blog
+> blog
   https://manuelperez.dev/
 > linkedin
   https://www.linkedin.com/in/manuel-perez-regalado/

@@ -10,7 +10,7 @@
 > location
   Canary Islands, ES
 > company
-  www.leanmind.es
+  www.audiense.com
 > values
   Communication, Respect, Simplicity, Courage, Feedback
 > technologies
